@@ -4,9 +4,9 @@ Provides constructs that intentionally do nothing – useful in various situatio
 # How to use
 _It is assumed that you have installed terraform binary [LINK](https://learn.hashicorp.com/tutorials/terraform/install-cli)_
 
-Download this repository
+Clone the repository
 ```
-https://github.com/ionhashicorp/terraform-null-provider.git
+git clone https://github.com/ionhashicorp/terraform-null-provider.git
 ```
 
 Change directory into terraform-null-provider:
